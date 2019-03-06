@@ -1,6 +1,6 @@
 # Personal Website
 
-This repository contains the project files of my personal static website.
+This repository contains the project files of my personal static website developed using HTML and CSS.
 
 ___
 ## The website is now live!
