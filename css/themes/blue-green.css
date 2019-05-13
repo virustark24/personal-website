@@ -1,0 +1,17 @@
+main {
+	background-image: linear-gradient(to bottom right, #00BCD4, #9C27B0);
+	color: #ffffff;
+}
+
+.icons-social a {
+	color: #ffffff;
+}
+
+.icons-social a svg path{
+	fill: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
