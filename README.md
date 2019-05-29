@@ -13,7 +13,7 @@ https://viralparmar.ml
 ___
 ## How does it look?
 
-![https://viralparmar.ml](https://i.imgur.com/1Vupzar.png)
+![https://viralparmar.ml](https://i.imgur.com/X7yvfgH.png)
 
 ___
 ## A quick note:
